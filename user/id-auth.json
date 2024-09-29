@@ -1,0 +1,7 @@
+{
+    "vip_users": [
+        {"id": "uniqueID1"},
+        {"id": "uniqueID2"},
+        {"id": "uniqueID3"}
+    ]
+}
